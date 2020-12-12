@@ -20,9 +20,6 @@
     "url": "https://github.com/EduardoHenrique18/StayFish/issues"
   },
   "homepage": "https://github.com/EduardoHenrique18/StayFish#readme",
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
